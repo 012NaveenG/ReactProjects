@@ -1,0 +1,31 @@
+main{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 20px;
+}
+#nav-bar{
+    height: 50px;
+    width: 100%;
+    background-color: aqua;
+}
+#left-side{
+    height: 30vh;
+    width: 20vw;
+    background-color: red;
+}
+#middle-side{
+    height: 30vh;
+    width: 40vw;
+    background-color: blue;
+}
+#right-side{
+    height: 30vh;
+    width: 35vw;
+    background-color: blueviolet;
+}
+#footer{
+    height: 200px;
+    width: 100%;
+    background-color: yellow;
+}
